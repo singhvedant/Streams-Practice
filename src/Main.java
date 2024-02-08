@@ -15,5 +15,7 @@ public class Main {
         Q5.main(args);
         System.out.println("Q6: Write a Java program to sort a list of strings in alphabetical order, ascending and descending using streams.");
         Q6.main(args);
+        System.out.println("Q7: Write a Java program to find the maximum and minimum values in a list of integers using streams.");
+        Q7.main(args);
     }
 }
