@@ -17,5 +17,7 @@ public class Main {
         Q6.main(args);
         System.out.println("Q7: Write a Java program to find the maximum and minimum values in a list of integers using streams.");
         Q7.main(args);
+        System.out.println("Q8: Write a Java program to find the third highest number in a list using streams.");
+        Q8.main(args);
     }
 }
