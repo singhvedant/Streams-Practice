@@ -11,6 +11,7 @@ public class Main {
         Q3.main(args);
         System.out.println("Q4: Write a Java program to remove all duplicate elements from a list using streams.");
         Q4.main(args);
-
+        System.out.println("Q5: Write a Java program to count the number of strings in a list that start with a specific letter using streams.");
+        Q5.main(args);
     }
 }
