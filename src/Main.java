@@ -13,5 +13,7 @@ public class Main {
         Q4.main(args);
         System.out.println("Q5: Write a Java program to count the number of strings in a list that start with a specific letter using streams.");
         Q5.main(args);
+        System.out.println("Q6: Write a Java program to sort a list of strings in alphabetical order, ascending and descending using streams.");
+        Q6.main(args);
     }
 }
